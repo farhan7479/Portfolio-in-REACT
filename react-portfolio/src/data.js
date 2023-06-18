@@ -8,7 +8,7 @@ export const config = {
           description:
             'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
           animationDelay: '300',
-          buttonLink: 'https://codemmit.tech/',
+          buttonLink: 'https://google.com/',
           buttonText: 'CHECK OUT',
         },
         {
@@ -16,14 +16,14 @@ export const config = {
           description:
             'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
           animationDelay: '500',
-          buttonLink: 'https://codemmit.tech',
+          buttonLink: 'https://google.com/',
           buttonText: 'CHECK OUT',
         },
         {
           heading: 'Project Name Here',
           description: 'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
           animationDelay: '700',
-          buttonLink: 'https://codemmit.tech',
+          buttonLink: 'https://google.com/',
           buttonText: 'CHECK OUT',
         },
         {
@@ -31,7 +31,7 @@ export const config = {
           description:
             'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
           animationDelay: '900',
-          buttonLink: 'https://codemmit.tech',
+          buttonLink: 'https://google.com/',
           buttonText: 'CHECK OUT',
         },
         {
