@@ -56,11 +56,20 @@ const Hero = () => {
               >
                 L
               </span>
+                  </span>
+              <span
+                className="hero__alphabet"
+                data-aos="fade-up"
+                data-aos-delay="1400"
+              >
+                
+              </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="1000"
               >
+                  
                 S
               </span>
               <span
