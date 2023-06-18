@@ -40,49 +40,56 @@ const Hero = () => {
                 data-aos="fade-up"
                 data-aos-delay="400"
               >
-                R
+                U
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="600"
               >
-                O
+                L
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="800"
               >
-                N
+                L
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="1000"
               >
-                T
+                S
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="1200"
               >
-                E
+                T
               </span>
               <span
                 className="hero__alphabet"
                 data-aos="fade-up"
                 data-aos-delay="1400"
               >
-                N
+                A
               </span>
               <span
                 className="hero__alphabet hero__alphabet--last"
                 data-aos="fade-up"
                 data-aos-delay="1600"
               >
-                D
+                C
+              </span>
+                  <span
+                className="hero__alphabet hero__alphabet--last"
+                data-aos="fade-up"
+                data-aos-delay="1600"
+              >
+                K
               </span>
               <span
                 className="hero__developer-text"
@@ -99,7 +106,7 @@ const Hero = () => {
             >
               <p>
                 I'm a passionate and responsible{' '}
-                <span>Full Stack developer</span>, with more than 1.5 years of
+                <span>Full Stack developer</span>, with more than 1 years of
                 experience. Skilled in developing highly responsive websites and
                 mobile apps with elegant and efficient code.
               </p>
