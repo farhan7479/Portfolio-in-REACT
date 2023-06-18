@@ -73,8 +73,8 @@ const About = () => {
                   H<span>ello,</span>
                 </h2>
                 <p>
-                  I am <span>Your Name Here.</span> <br /> Highly passoinate
-                  front-end Developer with more than 1.5 years of experience.
+                  I am <span>Farhan Shahid</span> <br /> Highly passoinate
+                  front-end Developer with more than 1 years of experience.
                 </p>
               </Link>
             </div>
@@ -94,7 +94,7 @@ const About = () => {
                 </h2>
                 <p>
                   <span>6 month of experience.</span>
-                  <br />I have more than 1.5 years of experience in developing
+                  <br />I have more than 1 years of experience in developing
                   highly responsive frontend of websites using React.js and Next.js
                 </p>
               </Link>
@@ -121,10 +121,10 @@ const About = () => {
                     <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
                   </li>
                   <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
+                    <span>XYZ Pvt Ltd</span> - Backend-end Developer{" "}
                   </li>
                   <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
+                    <span>XYZ Pvt Ltd</span> - FullStack Developer{" "}
                   </li>
                 </ul>
               </Link>
