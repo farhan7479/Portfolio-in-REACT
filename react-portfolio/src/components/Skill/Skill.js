@@ -12,7 +12,7 @@ const Skill = () => {
     let radii;
 
     // If 3D Text Sphere is not showing up after deployment remove the return (i.e, return() =>{}) function from below code
-    return () => {
+    
       const texts = [
         'HTML',
         'CSS',
@@ -49,7 +49,7 @@ const Skill = () => {
 
       TagCloud(container, texts, options);
     }
-  }, []);
+  , []);
   return (
     <>
       <div className="skill">
@@ -109,16 +109,7 @@ const Skill = () => {
                     <li>
                       <span>HTML5, CSS3</span>
                     </li>
-                    <li>
-                      <span>
-                        <b>Preprocessors:</b> PUG, SASS
-                      </span>
-                    </li>
-                    <li>
-                      <span>
-                        <b>Modular:</b> BEM
-                      </span>
-                    </li>
+                   
                   </ul>
                 </div>
                 <div className="skill__details">
@@ -135,9 +126,7 @@ const Skill = () => {
                     <li>
                       <span>Node.js</span>
                     </li>
-                    <li>
-                      <span>jQuery</span>
-                    </li>
+                    
                     <li>
                       <span>Typescript</span>
                     </li>
