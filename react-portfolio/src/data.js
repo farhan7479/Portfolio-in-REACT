@@ -4,36 +4,39 @@ export const config = {
     projectCard: {
       cards: [
         {
-          heading: 'Project Name Here',
-          description:
-            'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
+          heading: 'Ecommerce in MERN',
+          description: [
+            'Developed an eCommerce clone using the MERN (MongoDB, Express.js, React, Node.js) stack.',
+            ' Implemented a seamless add-to-cart feature that allows users to easily add products to their shopping cart.',
+            ' Integrated a secure payment gateway to facilitate smooth and reliable online transactions.',
+          ],
           animationDelay: '300',
-          buttonLink: 'https://google.com/',
+          buttonLink: 'https://mushy-drawers-mite.cyclic.app/',
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'Project Name Here',
+          heading: 'Portfolio in REACT',
           description:
-            'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
+            'PortFolio with react and use scss for styling ',
           animationDelay: '500',
-          buttonLink: 'https://google.com/',
+          buttonLink: 'https://main--venerable-lollipop-f127cf.netlify.app/',
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'Project Name Here',
-          description: 'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
+          heading: 'Youtube Clone in REACT',
+          description: 'youtube Clone in React with searching and routing features in ',
           animationDelay: '700',
-          buttonLink: 'https://google.com/',
+          buttonLink: 'https://www.loom.com/share/03a326fcb0014f199f233df5d1eae806',
           buttonText: 'CHECK OUT',
         },
-        {
-          heading: 'Project Name Here',
-          description:
-            'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
-          animationDelay: '900',
-          buttonLink: 'https://google.com/',
-          buttonText: 'CHECK OUT',
-        },
+        // {
+        //   heading: 'Project Name Here',
+        //   description:
+        //     'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
+        //   animationDelay: '900',
+        //   buttonLink: 'https://google.com/',
+        //   buttonText: 'CHECK OUT',
+        // },
         {
           heading: 'Under Construction',
           description: '</>',
