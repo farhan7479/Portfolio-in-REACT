@@ -4,6 +4,30 @@ export const config = {
     projectCard: {
       cards: [
         {
+    heading: 'Google-clone project on Next.js',
+    description: [
+      'Google-clone with voice recognition, Google sign-in,',
+      'Used Redux Toolkit, Redux Persist, and Tailwind CSS for a seamless experience.',
+      'Excited to dive into more Next.js adventures!'
+    ],
+           animationDelay: '300',
+          buttonLink: 'https://google-clone-nextjs-beta.vercel.app/',
+          buttonText: 'CHECK OUT'
+  },
+				{
+				 heading: 'Real Estate Project on MERN Stack',
+  description: [
+    'Features include OTP login via phone and Google, favorites, and advanced filtering.',
+    'Utilized Redux, Redux Toolkit, Firebase for authentication & cloud storage.',
+    'Backend implemented in Node.js with JWT web token.',
+    'Hosted on Render.'
+  ],
+
+					animationDelay: '500',
+          buttonLink: 'https://real-eastate.onrender.com/',
+          buttonText: 'CHECK OUT',
+				},
+        {
           heading: 'Ecommerce in MERN',
           description: [
             'Developed an eCommerce clone using the MERN (MongoDB, Express.js, React, Node.js) stack.',
